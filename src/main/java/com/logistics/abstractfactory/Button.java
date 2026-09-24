@@ -1,4 +1,5 @@
 package main.java.com.logistics.abstractfactory;
 
-public class Button {
+public interface Button {
+    void paint();
 }
